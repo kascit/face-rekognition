@@ -1,3 +1,6 @@
+> This repository is archived.  
+> It is kept as a personal learning and experimentation project and is no longer actively developed.
+
 # AWS-Based Smart Attendance System using Face Recognition (IoT + Cloud)
 
 > 📦 This repository contains an **academic, proof-of-concept project** developed as part of a college course.  
@@ -259,3 +262,6 @@ It serves as a strong **academic and architectural showcase** for cloud-native s
 
 MIT License
 Provided **as-is**, for educational and learning purposes.
+
+> This repository is archived.  
+> It is kept as a personal learning and experimentation project and is no longer actively developed.
